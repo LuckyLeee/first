@@ -1,3 +1,6 @@
-my first git text file
+My first GIT text file.
 
-change something
+changed something.
+
+modify again.
+
